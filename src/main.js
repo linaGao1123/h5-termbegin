@@ -4,6 +4,7 @@ import Vue from 'vue'
 import store from './store/store'
 import App from './App'
 import router from './router'
+console.log('你好呀')
 
 Vue.config.productionTip = false
 
