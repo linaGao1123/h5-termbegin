@@ -6,6 +6,7 @@ import App from './App'
 import router from './router'
 console.log('你好呀')
 console.log('commit2')
+console.log('rever1')
 
 
 Vue.config.productionTip = false
