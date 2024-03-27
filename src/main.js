@@ -5,6 +5,8 @@ import store from './store/store'
 import App from './App'
 import router from './router'
 console.log('你好呀')
+console.log('commit2')
+
 
 Vue.config.productionTip = false
 
