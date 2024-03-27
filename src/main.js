@@ -11,6 +11,7 @@ console.log('rever2')
 console.log('rever3')
 console.log('rever4')
 console.log('rever-change')
+console.log('dev1-change')
 
 Vue.config.productionTip = false
 
