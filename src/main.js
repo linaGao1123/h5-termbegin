@@ -9,7 +9,7 @@ console.log('commit2')
 console.log('rever1')
 console.log('rever2')
 console.log('rever3')
-
+console.log('rever4')
 
 Vue.config.productionTip = false
 
