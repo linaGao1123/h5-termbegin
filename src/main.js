@@ -8,6 +8,7 @@ console.log('你好呀')
 console.log('commit2')
 console.log('rever1')
 console.log('rever2')
+console.log('rever3')
 
 
 Vue.config.productionTip = false
